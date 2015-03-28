@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Adam\dexit\TestLibMuseAndroid\app\libs\libmuseandroid.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29c9db643c9cd140b86ad1788d6b9fdf96983037">
+        <dex dex="C:\Users\Adam\dexit\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\libmuseandroid-3f0ef54d70ce8c131b23a0b9b813d1ce6d064e65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Adam\dexit\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-61ced9e9170ac3f7c627ebbb177c1250345bdda2.jar" />
+    </item>
+
+</items>
